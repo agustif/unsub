@@ -1,0 +1,19 @@
+{
+    "name": "unsub",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx playwright test"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.44.1",
+        "@types/node": "^20.12.12"
+    },
+    "dependencies": {
+        "csv-parser": "^3.0.0"
+    }
+}
